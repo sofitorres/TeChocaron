@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-=======
+
 # 🚗 TeChocaron - PWA de Gestión de Siniestros
 >>>>>>> 82dc1ea241a4d772d954fa9ca3b820eca6b8f156
 
